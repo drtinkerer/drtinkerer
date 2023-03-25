@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning about Kubernetes and Automated CI/CD deployments. 
 - 👯 I’m looking to collaborate on open source projects and teaching/mentoring the community on modern technologies.
 - 🤔 Like everyone else, I’m wondering on existential questions that have troubled humans ever since dawn of civilizations.
-- 📫 Reach me at: [eulers_identity2718@gmail.com](mailto:eulers_identity2718@gmail.com)
+- 📫 Reach me at: [eulersidentity2718@gmail.com](mailto:eulers_identity2718@gmail.com)
 - 📧 Check out my [portfolio website](https://drtinkerer.netlify.app/) to get to know me better
 - ⚡ Fun fact: I am really into Video Gaming and virtual realities.
 

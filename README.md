@@ -1,5 +1,5 @@
 <!-- README Intro -->
-<h2 align='center'>Hey There! I am Bhushan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align='center'>Hey There! I am Bhushan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h2>
 
 <h5 align="center">
   <code>

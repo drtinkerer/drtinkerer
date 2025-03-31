@@ -28,7 +28,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
 </div>
 
 Versatile DevOps, Cloud and Data specialist with 9+ years of experience, having a deep understanding of software, analytics, manufacturing processes, and business operations. As a creative, curious and analytical thinker, I excel in approaching technology from a business perspective, with a strong focus on automation and data-driven solutions to drive growth and efficiency.
@@ -192,12 +192,6 @@ Versatile DevOps, Cloud and Data specialist with 9+ years of experience, having 
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=drtinkerer&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/drtinkerer/drtinkerer/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>

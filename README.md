@@ -164,12 +164,18 @@ status:
 ## GitHub Stats
 
 <div align="center">
+
+![Views](https://komarev.com/ghpvc/?username=drtinkerer&style=flat-square&color=58A6FF&label=Profile+Views)
+
   <img src="https://github-readme-stats.vercel.app/api?username=drtinkerer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drtinkerer&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="160" />
-</div>
 
-<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=drtinkerer&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=drtinkerer&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=drtinkerer&theme=algolia&no-frame=true&column=7&margin-w=10" />
+
 </div>
 
 ---
